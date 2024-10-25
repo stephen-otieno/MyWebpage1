@@ -1,0 +1,125 @@
+
+.Abt {
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Agency FB", ui-monospace;
+
+}
+.Abt:hover {
+    cursor: pointer;
+
+}
+.rounded:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+.myName {
+    color: red;
+}
+.myName:hover {
+    font-size: larger;
+    cursor: pointer;
+}
+
+.hd1 {
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Agency FB", ui-monospace;
+}
+
+.htm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2cm;
+}
+
+.HTMLpg {
+     font-family: "Mongolian Baiti", ui-sans-serif;
+    font-size: large;
+}
+
+.cssLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2cm;
+
+}
+
+.CSSpg {
+     font-family: "Mongolian Baiti", ui-sans-serif;
+    font-size: large;
+}
+
+.JsLogo {
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2cm;
+}
+
+.JsLogo:hover{
+    display-outside: ruby-base-container;
+}
+
+.JSpg {
+    font-family: "Mongolian Baiti", ui-sans-serif;
+    font-size: large;
+}
+
+.prg1 {
+    color: #e4c70d;
+    margin-top: 2cm;
+    margin-left: .5cm;
+    font-size: large;
+    border-radius: 8%;
+    background-size: cover;
+
+}
+
+.dtls {
+
+
+    background-color: #326ba8;
+    color: white;
+    padding: 1cm;
+    border-radius: 8%;
+
+}
+
+.dtls:hover {
+    font-size: larger;
+    cursor:pointer;
+}
+
+.btn1 {
+    background-color: #002aff;
+    color: white;
+    font-size: large;
+    margin-right: 1cm;
+    border-radius: 8px;
+}
+
+.btn1:hover {
+    cursor: pointer;
+    background-color: #002aff;
+    font-size: larger;
+
+}
+
+.footer1 {
+    margin-left: 1cm;
+}
+.slogan {
+        font-family: "Segoe Print";
+
+}
